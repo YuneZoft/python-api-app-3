@@ -1,0 +1,15 @@
+site_name: python-api-app-3
+site_description: Documentation for the Python Flask API Application python-api-app-3
+site_author: John Yunez
+repo_url: https://github.com/JohnYunez/python-api-app-3
+edit_uri: edit/master/docs/
+docs_dir: docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Usage: usage.md
+  - Development: development.md

@@ -1,0 +1,12 @@
+test file for parameters/values
+
+App's name: 
+python-api-app-3
+
+App's env : 
+dev
+
+API's path: 
+info
+
+python-api-app-3-dev
